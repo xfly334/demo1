@@ -15,11 +15,11 @@ export default new Vuex.Store({
       open_id: 'onTpTxM6o6_2vcA4CQqkJeBLT0cQ',
       point: 0,
       reg_time: 1569483573,
-      token: '5d900e3ccd19715697219165d900e3ccd1d9'
+      token: '5d9c2f68650db15705168405d9c2f686511b'
     },
     add: {},
     defaultAdd: false,
-    token: '5d900e3ccd19715697219165d900e3ccd1d9'
+    token: '5d9c2f68650db15705168405d9c2f686511b'
   },
   mutations: {
     setAdd (state, data) {
